@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sohelhabib
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning HTML,CSS,JQuery.
 - 📫 Reach me at mdsohelhabib@gmail.com
 
 <!---
